@@ -1,4 +1,4 @@
-# UWM-CS564-Database
+# UWM-CS564-Spring19
 p1: 100/100
 
 p2: 96/100
